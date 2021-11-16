@@ -4,6 +4,7 @@
     font-family: 'bluunext';
     src: url('../fonts/bluunext.otf') format('opentype');
     font-weight: normal;
+    position:fixed;
 }
 * { 
     margin: 0px;
