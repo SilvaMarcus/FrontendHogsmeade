@@ -31,7 +31,7 @@ header{
     border-radius: 12px;
     padding: 20px;
     max-width: 1280px;
-    min-width:200px;
+    min-width:350px;
     border: 30px;
     position: sticky; 
     top: 0;
@@ -68,7 +68,7 @@ body{
 main {
     background-color:#1f0901a4;
     padding: 20px;
-    min-width: 200px;
+    min-width: 350px;
     max-width:1280px;
     margin: auto;
     color: white;
@@ -113,7 +113,7 @@ main iframe {
 
 article{
    max-width:1280px ;
-   min-width: 200px;
+   min-width: 350px;
     margin: auto;
 
 }
