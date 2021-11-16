@@ -111,14 +111,9 @@ main h2{
 
  }
 
-main iframe {
-    width: 100%;
-}
-
 article{
    max-width:1280px ;
    min-width: 300px;
-    margin: auto;
 
 }
 main ul{
