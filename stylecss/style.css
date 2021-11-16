@@ -112,6 +112,7 @@ main h2{
 article{
    max-width:1280px ;
    min-width: 200px;
+    margin:auto;
 
 }
 main ul{
