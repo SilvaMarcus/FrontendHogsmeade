@@ -79,6 +79,10 @@ main {
     text-shadow: 10px 15px 20px black ;
 }
 
+main iframe{
+    width: 100%;
+}
+
 
 main strong {
     color:rgb(175, 174, 174);
@@ -137,11 +141,9 @@ footer{
     color: rgb(253, 229, 184);
     text-shadow: 20px 10px 20px  black;
     background-color: rgba(36, 3, 3, 0.111);  
-     
 }
 footer p{
     margin: 10px;
     font-family: 'Bangers', cursive;
     letter-spacing: 1px;
-
 }
