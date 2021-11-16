@@ -4,7 +4,7 @@
     font-family: 'bluunext';
     src: url('../fonts/bluunext.otf') format('opentype');
     font-weight: normal;
-    position:fixed;
+    position: fixed;
 }
 * { 
     margin: 0px;
@@ -20,10 +20,10 @@
 }
 header img {
    position:absolute;
-   left: 6%;
+   left: 3%;
     border-right: 50px ;
    background-color: var(--cor02);
-   border-radius: 45px;
+   border-radius: 30px;
 
 }
 header{
@@ -32,7 +32,7 @@ header{
     border-radius: 12px;
     padding: 20px;
     max-width: 1280px;
-    min-width:200px;
+    min-width: 200px;
     border: 30px;
     position: sticky; 
     top: 0;
@@ -69,7 +69,7 @@ body{
 main {
     background-color:#1f0901a4;
     padding: 20px;
-    min-width: 350px;
+    min-width: 200px;
     max-width:1280px;
     margin: auto;
     color: white;
@@ -79,6 +79,8 @@ main {
     line-height: 1.7em;
     text-shadow: 10px 15px 20px black ;
 }
+
+
 main strong {
     color:rgb(175, 174, 174);
     text-decoration:underline white ;
@@ -105,6 +107,7 @@ main h2{
    font-family: var(--fontebluu);
    text-indent: 30px;
    font-size: 1.1em;
+   margin: 0px 200px 0px 200px;
 
  }
 
@@ -114,7 +117,7 @@ main iframe {
 
 article{
    max-width:1280px ;
-   min-width: 350px;
+   min-width: 300px;
     margin: auto;
 
 }
@@ -122,7 +125,8 @@ main ul{
     list-style-position: inside;
     text-align: left;
     margin: 10px;
-            
+    margin: 0px 200px 0px 200px;
+    
 }
   li{
     margin: 10px;
