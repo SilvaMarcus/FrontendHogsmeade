@@ -19,10 +19,10 @@
 }
 header img {
    position:absolute;
-   left: 3%;
+   left: 6%;
     border-right: 50px ;
    background-color: var(--cor02);
-   border-radius: 30px;
+   border-radius: 45px;
 
 }
 header{
@@ -31,6 +31,7 @@ header{
     border-radius: 12px;
     padding: 20px;
     max-width: 1280px;
+    min-width:200px;
     border: 30px;
     position: sticky; 
     top: 0;
