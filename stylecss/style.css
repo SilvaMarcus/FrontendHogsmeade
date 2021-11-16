@@ -31,7 +31,7 @@ header{
     border-radius: 12px;
     padding: 20px;
     max-width: 1280px;
-    max-width: 50px;
+    min-width: 50px;
     border: 30px;
     position: sticky; 
     top: 0;
