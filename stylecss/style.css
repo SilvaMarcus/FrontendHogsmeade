@@ -24,7 +24,6 @@ header img {
     border-right: 50px ;
    background-color: var(--cor02);
    border-radius: 30px;
-
 }
 header{
     text-align: center;
@@ -107,13 +106,12 @@ main h2{
    font-family: var(--fontebluu);
    text-indent: 30px;
    font-size: 1.1em;
-   
 
  }
 
 article{
    max-width:1280px ;
-   min-width: 300px;
+   min-width: 200px;
 
 }
 main ul{
